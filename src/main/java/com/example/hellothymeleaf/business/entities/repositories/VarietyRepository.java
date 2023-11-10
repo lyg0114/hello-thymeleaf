@@ -1,4 +1,4 @@
-package com.example.hellothymeleaf.business.repositories;
+package com.example.hellothymeleaf.business.entities.repositories;
 import org.springframework.stereotype.Repository;
 
 @Repository
